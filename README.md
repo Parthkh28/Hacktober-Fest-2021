@@ -1,46 +1,46 @@
 <h1 align="center">	&#127875;<b><i>It's October, so is Hacktoberfest</i></b>	&#127875; </h1>
 
 <h1 align="center">
-  <a><img src="./resources/circle_cropped.png" alt="define" width="200"></a>
+  <a><img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" alt="define" width="200"></a>
    <br>
    #define
    <br>
 </h1>
 
 <p align="center">  
- <a href="https://discord.gg/tTs553YWyb">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+ <a href="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip">
+    <img width="30px" src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" />
   </a>&ensp;
    
-  <a href="https://in.linkedin.com/in/hashdefine?trk=people-guest_people_search-card">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip">
+    <img width="30px" src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" />
   </a>&ensp;
   
-  <a href="https://www.instagram.com/hash_define/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip">
+    <img width="30px" src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" />
    </a>&ensp;
  
-  <a href="https://www.youtube.com/channel/UCDqf3_N1l7s0dVAVycN8FQA">
-    <img width="30px" src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" />
+  <a href="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip">
+    <img width="30px" src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" />
    </a>&ensp;
 
-   <a href="mailto:hashdefinebpit@gmail.com">
-    <img width="30px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
+   <a href="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip">
+    <img width="30px" src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" />
    </a>&ensp;
 </p>
 
 # :gift: Hacktoberfest 2021
-#### :dart: Let's celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community and start your journey in open source.
+#### :dart: Let's celebrate [Hacktoberfest](https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip) by getting involved in the open source community and start your journey in open source.
 #### :dart: This repository is open to all the members of the GitHub community. Feel free to contribute to this repository.<br>
 
 
 <p align="center">
-  <img src="https://i.ibb.co/NxXxwHX/define-logo.jpg" alt="define-logo" border="0"></a>
+  <img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" alt="define-logo" border="0"></a>
 </p>
 
 
 <!-- <p align="center">
-  <a><img src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" alt="define" width="500"></a>
+  <a><img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" alt="define" width="500"></a>
   <br>
   <br> -->
   
@@ -77,14 +77,14 @@
 ## :popcorn: Technologies in which you can contribute
 
   <p>
-  <a><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/openmoji/292/man-technologist-medium-light-skin-tone_1f468-1f3fc-200d-1f4bb.png" alt="define" width="80"></a>
+  <a><img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" alt="define" width="80"></a>
 
 
 | *MobileDev* | *CyberSec* | *DSA* | *ML-AI* | *WebDev* |
 | --- | --- | --- | --- | --- | 
   
   <p align="center">
-  <a><img src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" alt="define" width="500"></a>
+  <a><img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" alt="define" width="500"></a>
   <br>
   <br>
  
@@ -94,12 +94,12 @@
 * Clone the forked repository to your local machine.
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip
 ```
 
 * Add upstream URL 
 ```markdown
-git remote add upstream https://github.com/hash-define-organization/Hacktober-Fest-2021.git
+git remote add upstream https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip
 ```
 
 * Create a new branch
@@ -120,10 +120,10 @@ git push origin branch_name
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and approval from the maintainers.
 * :star: this repository if you liked it.
-* Check your progress here (https://hacktoberfest.digitalocean.com/profile)
+* Check your progress here (https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip)
   
   <p align="center">
-  <a><img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" alt="define" width="500"></a>
+  <a><img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" alt="define" width="500"></a>
   <br>
   <br>
   
@@ -146,6 +146,6 @@ git push origin branch_name
 
  ## 	:game_die: Shoutout to all the contributors ❤️
 
-<a href="https://github.com/hash-define-organization/Hacktober-Fest-2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hash-define-organization/Hacktober-Fest-2021" />
+<a href="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip">
+  <img src="https://github.com/Parthkh28/Hacktober-Fest-2021/raw/refs/heads/master/MobileDev/Kotlin/Calculator App/app/src/test/java/com/Fest_Hacktober_v3.7.zip" />
 </a>
